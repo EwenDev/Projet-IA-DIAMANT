@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Diamant IA</h1>
-  <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/made-with-python.svg"></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 ## À propos
