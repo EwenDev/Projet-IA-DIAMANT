@@ -9,7 +9,7 @@ Ce projet avait pour but la création d'une "IA" capable de jouer au jeu [Diaman
 
 ## Contenu
 - IA.py - Algorithme de l'IA en elle-même
-- RAPPORT.pdg - Rapport détaillé de la façon dont a été réalisée le projet
+- RAPPORT.pdf - Rapport détaillé de la façon dont a été réalisée le projet
 - Projet-Complet - Dossier contenant tout ce qui permet de faire fonctionner l'IA dont le moteur du jeu.
 
 ## Fonctionnalités
